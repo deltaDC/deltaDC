@@ -1,4 +1,3 @@
-- Hi, I’m @deltaDC
 - Đây chỉ là nơi lưu trữ và chia sẻ code ở PTIT :)))
 
 <!---
